@@ -20,8 +20,6 @@
 ![Dataset](https://img.shields.io/badge/Customers-7,043-purple?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
 
-### [🎥 Watch Video Demo](https://YOUR_VIDEO_LINK_HERE) &nbsp;•&nbsp; [📓 Notebook](https://github.com/TrivediMan/Customer-Churn-prediction/tree/main/Notebook) &nbsp;•&nbsp; [📦 Model](https://github.com/TrivediMan/Customer-Churn-prediction/tree/main/Model) &nbsp;•&nbsp; [📊 Data](https://github.com/TrivediMan/Customer-Churn-prediction/tree/main/Data)
-
 </div>
 
 ---
