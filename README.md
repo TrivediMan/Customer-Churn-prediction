@@ -24,15 +24,12 @@
 
 ---
 
-## 🎬 Video Walkthrough
+# 🎥 Project Video
 
-<div align="center">
 
-<!-- Option A: clickable YouTube thumbnail (replace VIDEO_ID) -->
-<a href="https://YOUR_VIDEO_LINK_HERE">
-  <img src="https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg" width="70%" alt="Watch the project demo"/>
-</a>
+🔗 **[▶️ Watch Project Video](https://drive.google.com/file/d/1hp8G6ceAHJGb_ePIzEmJZYx5Y0InOMYR/view?usp=drive_link)**
 
+---
 <br/><br/>
 
 <a href="https://YOUR_VIDEO_LINK_HERE">
