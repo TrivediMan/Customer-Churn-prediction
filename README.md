@@ -30,11 +30,6 @@
 🔗 **[▶️ Watch Project Video](https://drive.google.com/file/d/1hp8G6ceAHJGb_ePIzEmJZYx5Y0InOMYR/view?usp=drive_link)**
 
 ---
-<br/><br/>
-
-<a href="https://YOUR_VIDEO_LINK_HERE">
-  <img src="https://img.shields.io/badge/▶%20%20WATCH%20THE%20FULL%20DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch demo"/>
-</a>
 
 </div>
 
