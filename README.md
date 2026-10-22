@@ -32,9 +32,6 @@
 ---
 
 </div>
-
-> 💡 **Tip:** Replace `https://YOUR_VIDEO_LINK_HERE` with your YouTube / Loom / Drive link, and `VIDEO_ID` with your YouTube video ID. For an animated preview, record a short GIF of the notebook running, save it as `assets/demo.gif` and add `![Demo](assets/demo.gif)` here.
-
 ---
 
 ## 🧠 The Business Problem
